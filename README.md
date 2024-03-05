@@ -27,6 +27,7 @@ If necessary, please attach screenshots and files.
 
 ## week 3
 
+回答"分析大專院校校別學生數" -> [answer code](https://github.com/breeze0305/LATIA112-2/blob/main/week3/main.py)
 ## week 4
 
 ## week 5
