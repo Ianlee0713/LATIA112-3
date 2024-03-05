@@ -5,6 +5,13 @@
 contact: benfeng99@gmail.com  
 my blog:https://breeze0305.github.io/about/  
 
+```
+詢問問題請有禮貌，先告知你的身分，並詳細說明你的問題。
+有必要的情況下請附上截圖與檔案。
+👍
+Please ask questions politely, state your identity first, and provide detailed explanations of your questions.  
+If necessary, please attach screenshots and files.
+```
 ***
 ## week 1
 
