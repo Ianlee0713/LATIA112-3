@@ -4,7 +4,7 @@
 
 contact: benfeng99@gmail.com  
 my blog:https://breeze0305.github.io/about/  
-
+Discord:breeze0305
 ```
 詢問問題請有禮貌，先告知你的身分，並詳細說明你的問題。
 有必要的情況下請附上截圖與檔案。
