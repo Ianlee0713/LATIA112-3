@@ -20,6 +20,15 @@ Please ask questions politely, state your identity first, and provide detailed e
 If necessary, please attach screenshots and files.
 ```
 ***
+## HW1
+
+[main.py](https://github.com/breeze0305/LATIA112-2/blob/main/HW1/main.py) 為執行檔案，使用[student-behavior.csv](https://github.com/breeze0305/LATIA112-2/blob/main/HW1/student-behavior.csv) ([Kaggle/student-behavior](https://www.kaggle.com/datasets/gunapro/student-behavior/))作為統計的資料集，預設使用[TaipeiSansTCBeta](https://github.com/breeze0305/LATIA112-2/blob/main/HW1/TaipeiSansTCBeta-Regular.ttf)字體，使用[matplotlib](https://matplotlib.org/)繪製圖表，程式執行完畢後，圖片會存在同目錄下的[answer_pic](https://github.com/breeze0305/LATIA112-2/tree/main/HW1/answer_pic)。
+
+```
+資料集說明:此資料集為這是一個有關學生行為的csv數據,出自Kaggle開放式平台的數據  
+網頁:https://www.kaggle.com/datasets/gunapro/student-behavior/
+```
+
 ## week 1
 
 ## week 2
@@ -86,3 +95,13 @@ If necessary, please attach screenshots and files.
 ## week 10
 
 ## week 11
+
+## week 12
+
+## week 13
+
+## week 14
+
+## week 15
+
+## week 16
