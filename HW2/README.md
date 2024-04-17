@@ -9,7 +9,7 @@ Discord:breeze0305
 ***
 ## HW2
 > requirements:  
-> pip install pandas
+> pip install pandas  
 > pip install selenium  
 > pip install webdriver_manager  
 > pip install beautifulsoup4  
