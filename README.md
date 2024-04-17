@@ -28,7 +28,15 @@ If necessary, please attach screenshots and files.
 資料集說明:此資料集為這是一個有關學生行為的csv數據,出自Kaggle開放式平台的數據  
 網頁:https://www.kaggle.com/datasets/gunapro/student-behavior/
 ```
+***
+## HW2
 
+[main.py](https://github.com/breeze0305/LATIA112-2/blob/main/HW2/main.py) 為執行檔案，[Chromedriver](https://github.com/breeze0305/LATIA112-2/blob/main/HW2/chromedriver.exe)是符合我本地的chrome driver，如需執行，請更改成自己的版本，[books.csv](https://github.com/breeze0305/LATIA112-2/blob/main/HW2/books.csv)為爬取的內容。
+
+```
+爬取網頁:博客來網站搜尋(程式)
+url:https://search.books.com.tw/search/query/key/%E7%A8%8B%E5%BC%8F/cat/all
+```
 ## week 1
 
 ## week 2
